@@ -1,14 +1,10 @@
 <div class="section" id = "home-announce">
-	<div id = "home-announce-caption">
-		<div id = "bg-vid">
-		<video autoplay="autoplay" loop="loop" muted="muted">
+		<video autoplay="autoplay" loop="loop" muted="muted" id="bg-vid">
 			<source src="assets/welcome.mp4">
 			<source src="assets/welcome.webm">
 		</video>
-		</div>
-	</div>
 	<div id = "content-wrap">
-		<img src="assets/mg_circle_logo.png" id="welcome-logo"/>
+		<img src="assets/mg_logo.png" id="welcome-logo"/>
 		<button id="join-submit-top" class="btn btn-submit">JOIN NOW</button>
 		<div class = "arrow-bottom">
 			<div id = "arrow-wrap">
