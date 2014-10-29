@@ -7,6 +7,7 @@
 		<link href="css/welcome.css" rel="stylesheet">
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 		<script src="https://cdn.firebase.com/js/client/1.1.2/firebase.js"></script>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
 	</head>
 	<body>
 		<div id="container">
