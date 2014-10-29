@@ -8,7 +8,7 @@
 		</div>
 	</div>
 	<div id = "content-wrap">
-		<img src="assets/logo-mock-blue.png" id="welcome-logo"/>
+		<img src="assets/mg_circle_logo.png" id="welcome-logo"/>
 		<button id="join-submit-top" class="btn btn-submit">JOIN NOW</button>
 		<div class = "arrow-bottom">
 			<div id = "arrow-wrap">
