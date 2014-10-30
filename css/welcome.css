@@ -16,18 +16,19 @@ input {
 }
 
 .btn-submit {
-	background-color: #1F2C3B;
-	color: #fff;
-	font-weight: 100;
+	background-color: #99d0f7;
+	color: #1F2C3B;
+	font-weight: 300;
 	padding-top: 15px;
 	padding-bottom: 15px;
 	width: 40%;
 	font-size: 18px;
   border-radius: 10px;
+  margin-top: 10px;
 }
 
 .btn-submit:hover{
-	background-color: #304052;
+	background-color: #bee0f7;
 }
 
 .join-btn-top {
@@ -86,14 +87,14 @@ input {
 }
 
 #aboutus-section{
-	background-color: #46aca0;
-	color: white;
+	background: url('../assets/panels/about.png');
+  color: white;
 	width: 100%;
 }
 
 #aboutus-section h1{
 	color: white;
-	font-size: 56px;
+	font-size: 65px;
 	margin-bottom: -20px;
 }
 
@@ -103,7 +104,7 @@ input {
 }
 
 .section{
-	padding-top: 80px;
+	padding-top: 60px;
 	padding-bottom: 80px;
 	width: 100%;
 	position: relative;
@@ -111,12 +112,12 @@ input {
 
 #how-section{
 	background-color: white;
-	color: white;
+  /*background: url('../assets/panels/geom.png');*/
 }
 
 #how-section h1{
 	color: #46aca0;
-	font-size: 56px;
+	font-size: 65px;
 	margin-bottom: 10px;
 }
 
@@ -171,11 +172,10 @@ input {
 
 #faq-section h1{
 	color: #fff;
-	font-size: 56px;
+	font-size: 65px;
 }
 
 #faq-section p{
-	font-weight: 100;
 	font-size: 24px;
 }
 
@@ -194,19 +194,28 @@ input {
 .faq-link {
   color: #fff;
   text-decoration: none;
+  font-weight: 400;
 }
 
 .faq-answer {
   display: none;
+  width: 70%;
+  font-weight: 100;
+  text-align:center;
+  margin: 0 auto;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 #team-section {
 	background-color: #fff;
+  /*background: url('../assets/congruent_pentagon/congruent_pentagon.png');*/
+  background: url('../assets/panels/penta_dull.png');
 }
 
 #team-section h1 {
-	font-size: 56px;
-	color: #000;
+	font-size: 65px;
+	color: #1F2C3B;
 }
 
 #team-section ul {
@@ -231,23 +240,28 @@ input {
 
 #team-section .person-name {
 	font-weight: 300;
+  color: #1F2C3B;
 	font-size: 18px;
 }
 
+#team-section .person-title {
+  color: #1F2C3B;
+}
+
 #join-section {
-	background: url('../assets/congruent_pentagon/congruent_pentagon.png');
+	background: url('../assets/panels/royal.png');
 }
 
 #join-section h1 {
 	font-size: 65px;
-	color: #1F2C3B;
+	color: #fff;
 	margin-bottom: -25px;
 }
 
 #join-section h2 {
 	font-size: 18px;
 	margin-bottom: 30px;
-  color: #1F2C3B;
+  color: #fff;
 }
 
 #footer-section{
