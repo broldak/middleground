@@ -30,21 +30,18 @@ input {
 	background-color: #304052;
 }
 
-#join-submit {
-	margin-top: 20px;
+.join-btn-top {
+  background-color: transparent;
+  width: 50%;
+  max-width: 250px;
+  margin-top: 15px;
 }
 
-#join-submit-top {
-	margin-top: 20px;
-	background-color: #fff;
-	color: #1F2C3B;
-	border: 4px solid #46aca0;
-  border-radius: 10px;
-}
+.join-btn-top { -webkit-transition: all .1s linear; }
+.join-btn-top:hover { -webkit-transform: scale(1.05); }
 
-#join-submit-top:hover {
-	background-color: #46aca0;
-	color: white;
+.join-btn-img {
+  width: 100%;
 }
 
 #welcome-logo{

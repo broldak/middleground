@@ -5,7 +5,7 @@
 		</video>
 	<div id = "content-wrap">
 		<img src="assets/mg_logo.png" id="welcome-logo"/>
-		<button id="join-submit-top" class="btn btn-submit">JOIN NOW</button>
+		<button class="btn join-btn-top"><img class="join-btn-img" src="assets/join.png"/></button>
 		<div class = "arrow-bottom">
 			<div id = "arrow-wrap">
 				<img src="assets/arrow-d.png" class="arrow" id="arrow"/>

@@ -46,7 +46,7 @@ $('document').ready(function(){
 		$(this).attr('src', '/assets/arrow-d.png');
 	});
 
-	$('#join-submit-top').on('click', function(){
+	$('.join-btn-top').on('click', function(){
 		$('html, body').animate({
 			scrollTop: $('#join-section').offset().top
 		}, 1000);
