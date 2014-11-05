@@ -16,9 +16,14 @@
 <div class = "section" id = "aboutus-section">
 	<h1>MUSIC LICENSING MADE SOCIAL</h1>
 	<div id = "aboutus-text">
-		<p>This is the dopest site on the internet. This is a brief description of what we're doing out here. It's really cool, and we're awesome people.
-	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis elit vitae lorem dignissim, ullamcorper convallis sapien iaculis. Aliquam erat volutpat. Aenean fringilla, velit sollicitudin semper ultrices, erat ante euismod augue, non tempus felis nibh eu diam. Vivamus elementum, urna a dapibus sollicitudin, massa erat commodo mi, eget malesuada enim lacus non nisi. Phasellus elementum rutrum est. Donec nec tempor risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed congue purus sed urna euismod lacinia. Vivamus vehicula, orci id laoreet vehicula, dolor ligula adipiscing velit, nec egestas nulla nibh id magna. Proin a felis consectetur, hendrerit lectus venenatis, aliquet purus. Fusce egestas velit vitae hendrerit fringilla.
-		</p>
+		<p>Here at Middleground we are dedicated to bridging the gap between 
+		indpendent musicians and content creators.</p>
+		<p>Whether you are looking for a dubstep intro for your tech vlog, 
+		or a 30-minute orchestral suite for your art-house film, we'll connect 
+		you with the right people for the job. Hassle free.</p>
+		<p>License custom, original music from the best independent musicians around.  
+		Find hidden treasures. Discover the next big thing.</p>
+		<p>Join our community and start exploring the Middleground.</p>
 	</div>
 </div>
 

@@ -301,7 +301,8 @@ input {
 }
 
 #aboutus-text{
-	max-width: 800px;
+	max-width: 720px;
+  width: 80%;
 	margin: 0 auto;
 }
 
