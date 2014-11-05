@@ -1,7 +1,7 @@
 <div class="section" id = "home-announce">
 		<video autoplay="autoplay" loop="loop" muted="muted" id="bg-vid">
-			<source src="assets/welcome.mp4">
-			<source src="assets/welcome.webm">
+			<source src="assets/top_edited.mp4">
+			<source src="assets/header1.webm">
 		</video>
 	<div id = "content-wrap">
 		<img src="assets/mg_logo.png" id="welcome-logo"/>
