@@ -100,7 +100,7 @@ input {
 
 #aboutus-section p{
 	font-weight: 100;
-	font-size: 20px;
+	font-size: 26px;
 }
 
 .section{
@@ -111,8 +111,9 @@ input {
 }
 
 #how-section{
-	background-color: white;
-  /*background: url('../assets/panels/geom.png');*/
+  	background: url('../assets/panels/panel-whitesquare.png');
+  	color: white;
+	width: 100%;
 }
 
 #how-section h1{
@@ -209,8 +210,7 @@ input {
 
 #team-section {
 	background-color: #fff;
-  /*background: url('../assets/congruent_pentagon/congruent_pentagon.png');*/
-  background: url('../assets/panels/penta_dull.png');
+  background: url('../assets/panels/Panels diag square.png');
 }
 
 #team-section h1 {
@@ -249,7 +249,7 @@ input {
 }
 
 #join-section {
-	background: url('../assets/panels/royal.png');
+	background: url('../assets/panels/penta_dull.png');
 }
 
 #join-section h1 {
@@ -266,8 +266,8 @@ input {
 
 #footer-section{
 	background-color: #1F2C3B;
-	padding-top: 40px;
-	padding-bottom: 40px;
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 
 #footer-section p{
