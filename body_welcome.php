@@ -16,8 +16,7 @@
 <div class = "section" id = "aboutus-section">
 	<h1>MUSIC LICENSING MADE SOCIAL</h1>
 	<div id = "aboutus-text">
-		<p>Here at Middleground we are dedicated to bridging the gap between 
-		indpendent musicians and content creators.</p>
+		<p></p>
 		<p>Whether you are looking for a dubstep intro for your tech vlog, 
 		or a 30-minute orchestral suite for your art-house film, we'll connect 
 		you with the right people for the job. Hassle free.</p>
