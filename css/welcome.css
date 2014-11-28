@@ -249,7 +249,9 @@ input {
 }
 
 #join-section {
-	background: url('../assets/panels/penta_dull.png');
+	background: url('../assets/panels/Panels penta colorful.png');
+	color: white;
+	width: 100%;
 }
 
 #join-section h1 {
