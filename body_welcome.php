@@ -146,15 +146,14 @@
 		<input type="text" id="first_name" name="fname" placeholder="First Name"/>
 		<input type="text" id="last_name"  name="lname" placeholder="Last Name"/>
 		<input type="email" id="email_address" name="email" placeholder="Email Address"/>
-		<button id="join-submit" class="btn btn-submit">JOIN NOW</button>
+		<button id="join-submit" class="btn join-btn-top btn-submit">
+			<img class="join-btn-img" src="assets/join.png"/>
+		</button>
 	</form>
 </div>
 
 <div class = "section" id = "footer-section">
 	<p>
-		Created by Tyler Laurence, Jared Corak, and Brian Oldak
-	</p>
-	<p>
-		For more info <a href="mailto:musicmiddleground@gmail.com">contact us</a>
+		For more info, <a href="mailto:musicmiddleground@gmail.com">contact us</a>.
 	</p>
 </div>

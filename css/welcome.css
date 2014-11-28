@@ -100,7 +100,7 @@ input {
 
 #aboutus-section p{
 	font-weight: 100;
-	font-size: 26px;
+	font-size: 20px;
 }
 
 .section{
@@ -266,8 +266,8 @@ input {
 
 #footer-section{
 	background-color: #1F2C3B;
-	padding-top: 20px;
-	padding-bottom: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 
 #footer-section p{
