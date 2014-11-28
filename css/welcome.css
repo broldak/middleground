@@ -16,7 +16,7 @@ input {
 }
 
 .btn-submit {
-	background-color: #99d0f7;
+	background-color: transparent;
 	color: #1F2C3B;
 	font-weight: 300;
 	padding-top: 15px;
@@ -28,7 +28,7 @@ input {
 }
 
 .btn-submit:hover{
-	background-color: #bee0f7;
+	background-color: transparent;
 }
 
 .join-btn-top {
