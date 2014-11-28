@@ -14,9 +14,10 @@
 	</div>
 </div>
 <div class = "section" id = "aboutus-section">
-	<h1>MUSIC LICENSING MADE SOCIAL</h1>
+	<h1>CONNECTING YOU TO THE MUSIC YOU NEED</h1>
 	<div id = "aboutus-text">
-		<p></p>
+		<p>Here at Middleground we are dedicated to bridging the gap between 
+-		indpendent musicians and content creators.</p>
 		<p>Whether you are looking for a dubstep intro for your tech vlog, 
 		or a 30-minute orchestral suite for your art-house film, we'll connect 
 		you with the right people for the job. Hassle free.</p>
@@ -64,24 +65,20 @@
 	<p>
 		<ul>
 			<li>
-				<a class="faq-link" href="#">Where do I submit my songs?</a>
-				<p class="faq-answer">Make a profile, search for projects that fit your style, and submit your masterpiece. It's that easy.</p>
+				<a class="faq-link" href="#">I'm looking for music...why use Middleground?</a>
+				<p class="faq-answer">Unlike traditional licesing sites and sound libraries, Middleground connects you directly to fresh, trendsetting musicians and voracious composers who are eager to create content that perfectly suits your needs. No exorbitant up-front fees. No sifting through libraries of canned music. No worries, mon. </p>
 			</li>
 			<li>
-				<a class="faq-link" href="#">As a musician, how do I get paid?</a>
-				<p class="faq-answer">If one of your songs gets selected by a project-creator as their favorite, you'll receive the compensation in the most convenient way for YOU! Paypal, Venmo, direct deposit.....everything short of "make it out to cash!"</p>
+				<a class="faq-link" href="#">I'm a musician...why use Middleground?</a>
+				<p class="faq-answer">Make money from your art. Plain and simple. Connect with influential content creators through non-exclusive licenses, letting you use your music wherever else you'd like. Retain 100% copyright ownership, while retaining 100% of your synch fee. It's that easy... </p>
 			</li>
 			<li>
 				<a class="faq-link" href="#">Who can use this site?</a>
-				<p class="faq-answer">Anyone! From corporate ad agencies and major labels, to youtube vloggers and basement rockers, Middleground is a site for collaboration open to everyone. </p>
+				<p class="faq-answer">Anyone! From youtube vloggers and basement rockers, to corporate ad agencies and major labels, Middleground is a site for collaboration open to everyone.</p>
 			</li>
-			<!--<li>
-				<a class="faq-link" href="#">What kind of licenses are used on the site?</a>
-				<p class="faq-answer">Fake answer</p>
-			</li>-->
 			<li>
-				<a class="faq-link" href="#">Can we sample other musicians</a>
-				<p class="faq-answer">In short...no. We want the content on Middleground to be 100% original so our lawyers can keep enjoying their never-ending Caribbean vacations.  However, there are some exceptions! Check out our terms and conditions to learn more.</p>
+				<a class="faq-link" href="#">Can we sample other musicians?</a>
+				<p class="faq-answer">In short...no. We want the content on Middle Ground to be 100% original so our lawyers can keep enjoying their never-ending Caribbean vacations.  However, there are some exceptions! Check out our terms and conditions to learn more.</p>
 			</li>
 		</ul>
 	</p>
@@ -158,6 +155,6 @@
 		Created by Tyler Laurence, Jared Corak, and Brian Oldak
 	</p>
 	<p>
-		For more info email contact <a href="mailto:tylerlaurence1@gmail.com">Tyler</a>
+		For more info <a href="mailto:musicmiddleground@gmail.com">contact us</a>
 	</p>
 </div>
