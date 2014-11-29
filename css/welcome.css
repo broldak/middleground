@@ -104,7 +104,7 @@ input {
 }
 
 .section{
-	padding-top: 60px;
+	padding-top: 30px;
 	padding-bottom: 80px;
 	width: 100%;
 	position: relative;
@@ -114,6 +114,7 @@ input {
   	background: url('../assets/panels/panel-whitesquare.png');
   	color: white;
 	width: 100%;
+  padding-bottom: 180px;
 }
 
 #how-section h1{
@@ -129,13 +130,11 @@ input {
 }
 
 #how-text {
-	max-width: 420px;
 	margin: 0 auto;
 }
 
 #how-section .how-title {
 	font-size: 37px;
-	text-align: left;
 	margin: 0;
 	margin-bottom: -10px;
 }
@@ -144,19 +143,29 @@ input {
 	color: #46aca0;
 	font-family: "Oswald", sans-serif;
 	height: 80px;
+  display: inline-block;
+  width: 30%;
 }
+
+.how-item img {
+  width: 220px;
+}
+
+.how-img { -webkit-transition: all .3s ease-in-out; }
+.how-img:hover { -webkit-transform: translate(0,-20px); }
 
 #how-section .how-subtitle {
 	font-size: 13px;
 	font-family: 'Lato', sans-serif;
 	font-weight: 300;
 	margin: 0;
-	text-align: left;
+  height: 50px;
 }
 
 .how-item-right {
 	display: inline-block;
 	float: right;
+  width: 100%;
 }
 
 .how-enum {
@@ -165,6 +174,12 @@ input {
 	font-size: 40px;
 	border-radius: 100%;
 	width: 60px;
+  margin: 0 auto;
+  display: block;
+}
+
+.how-enum:hover {
+  cursor: pointer;
 }
 
 #faq-section{

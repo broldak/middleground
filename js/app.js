@@ -50,8 +50,7 @@ $('document').ready(function(){
 		$('html, body').animate({
 			scrollTop: $('#join-section').offset().top
 		}, 1000);
-	})
-
+	});
 
 
 });

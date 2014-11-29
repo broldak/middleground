@@ -1,0 +1,100 @@
+diff --git a/assets/vector2 final.png b/assets/vector2 final.png
+deleted file mode 100644
+index de6fb5e..0000000
+Binary files a/assets/vector2 final.png and /dev/null differ
+diff --git a/body_welcome.php b/body_welcome.php
+index 2a23268..b0da0bb 100644
+--- a/body_welcome.php
++++ b/body_welcome.php
+@@ -35,8 +35,10 @@
+ 				1
+ 			</div>
+ 			<div class="how-item-right">
+-				<h1 class="how-title">CREATE PROJECT</h1>
+-				<p class="how-subtitle">Post your song requirements, details, compensation, etc.</p>
++				<img class="how-img" src="assets/Vector1.png"/>
++
++				<h1 class="how-title"></h1>
++				<p class="how-subtitle"></p>
+ 			</div>
+ 		</div>
+ 		<div class = "how-item">
+@@ -44,8 +46,9 @@
+ 				2
+ 			</div>
+ 			<div class="how-item-right">
+-				<h1 class="how-title">ARTISTS SUBMIT</h1>
+-				<p class="how-subtitle">Within a few days you'll have a pile of songs in your inbox.</p>
++				<img class="how-img" src="assets/vector2.png"/>
++				<h1 class="how-title"></h1>
++				<p class="how-subtitle"></p>
+ 			</div>
+ 		</div>
+ 		<div class = "how-item">
+@@ -53,8 +56,9 @@
+ 				3
+ 			</div>
+ 			<div class="how-item-right">
+-				<h1 class="how-title">CHOOSE YOUR FAVORITE</h1>
+-				<p class="how-subtitle">This may be the hardest part.</p>
++				<img class="how-img" src="assets/vector3.png"/>
++				<h1 class="how-title"></h1>
++				<p class="how-subtitle"></p>
+ 			</div>
+ 		</div>
+ 	</div>
+diff --git a/css/welcome.css b/css/welcome.css
+index 820e2a9..1478d99 100644
+--- a/css/welcome.css
++++ b/css/welcome.css
+@@ -114,6 +114,7 @@ input {
+   	background: url('../assets/panels/panel-whitesquare.png');
+   	color: white;
+ 	width: 100%;
++  padding-bottom: 120px;
+ }
+ 
+ #how-section h1{
+@@ -129,7 +130,6 @@ input {
+ }
+ 
+ #how-text {
+-	max-width: 420px;
+ 	margin: 0 auto;
+ }
+ 
+@@ -144,8 +144,17 @@ input {
+ 	color: #46aca0;
+ 	font-family: "Oswald", sans-serif;
+ 	height: 80px;
++  display: inline-block;
++  width: 30%;
+ }
+ 
++.how-item img {
++  width: 220px;
++}
++
++.how-img { -webkit-transition: all .3s ease-in-out; }
++.how-img:hover { -webkit-transform: translate(0,-20px); }
++
+ #how-section .how-subtitle {
+ 	font-size: 13px;
+ 	font-family: 'Lato', sans-serif;
+@@ -157,6 +166,7 @@ input {
+ .how-item-right {
+ 	display: inline-block;
+ 	float: right;
++  width: 100%;
+ }
+ 
+ .how-enum {
+@@ -165,6 +175,8 @@ input {
+ 	font-size: 40px;
+ 	border-radius: 100%;
+ 	width: 60px;
++  margin: 0 auto;
++  display: block;
+ }
+ 
+ #faq-section{

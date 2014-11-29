@@ -37,6 +37,7 @@
 			<div class="how-item-right">
 				<h1 class="how-title">CREATE PROJECT</h1>
 				<p class="how-subtitle">Post your song requirements, details, compensation, etc.</p>
+				<img class="how-img" src="assets/Vector1.png"/>
 			</div>
 		</div>
 		<div class = "how-item">
@@ -46,6 +47,7 @@
 			<div class="how-item-right">
 				<h1 class="how-title">ARTISTS SUBMIT</h1>
 				<p class="how-subtitle">Within a few days you'll have a pile of songs in your inbox.</p>
+				<img class="how-img" src="assets/vector2.png"/>
 			</div>
 		</div>
 		<div class = "how-item">
@@ -53,8 +55,9 @@
 				3
 			</div>
 			<div class="how-item-right">
-				<h1 class="how-title">CHOOSE YOUR FAVORITE</h1>
-				<p class="how-subtitle">This may be the hardest part.</p>
+				<h1 class="how-title">CHOOSE WINNER</h1>
+				<p class="how-subtitle">This may be the hardest part.</p><br />
+				<img class="how-img" src="assets/vector3.png"/>
 			</div>
 		</div>
 	</div>
