@@ -1,6 +1,7 @@
 <html>
 	<head>
 		<title>Middle Ground | Music Licensing Made Social</title>
+		<link rel="shortcut icon" href="http://www.middleground.io/favicon.ico" type="image/icon"> <link rel="icon" href="http://www.exemple.com/favicon.ico" type="image/icon">
 		<link href='//fonts.googleapis.com/css?family=Lato:100,300,400,700,900' rel='stylesheet' type='text/css'>
 		<link href='//fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
 		<link href="css/normalize.css" rel="stylesheet">
