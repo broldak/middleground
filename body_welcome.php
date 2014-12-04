@@ -16,10 +16,9 @@
 <div class = "section" id = "aboutus-section">
 	<h1>CONNECTING YOU TO THE MUSIC YOU NEED</h1>
 	<div id = "aboutus-text">
-		<p>Here at Middleground we are dedicated to bridging the gap between 
--		indpendent musicians and content creators.</p>
+		<p>Here at Middleground we are dedicated to bridging the gap between musicians and visual content creators.</p>
 		<p>Whether you are looking for a dubstep intro for your tech vlog, 
-		or a 30-minute orchestral suite for your art-house film, we'll connect 
+		or a classical suite for your next commercial, we'll connect 
 		you with the right people for the job. Hassle free.</p>
 		<p>License custom, original music from the best independent musicians around.  
 		Find hidden treasures. Discover the next big thing.</p>
@@ -36,7 +35,7 @@
 			</div>
 			<div class="how-item-right">
 				<h1 class="how-title">CREATE PROJECT</h1>
-				<p class="how-subtitle">Post your song requirements, details, compensation, etc.</p>
+				<p class="how-subtitle">Post your song requirements, details, compensation, and tags.</p>
 				<img class="how-img" src="assets/Vector1.png"/>
 			</div>
 		</div>
@@ -46,7 +45,7 @@
 			</div>
 			<div class="how-item-right">
 				<h1 class="how-title">ARTISTS SUBMIT</h1>
-				<p class="how-subtitle">Within a few days you'll have a pile of songs in your inbox.</p>
+				<p class="how-subtitle">Real musicians around the world submit customized music for the project.</p>
 				<img class="how-img" src="assets/vector2.png"/>
 			</div>
 		</div>
