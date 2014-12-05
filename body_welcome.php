@@ -55,7 +55,7 @@
 			</div>
 			<div class="how-item-right">
 				<h1 class="how-title">CHOOSE WINNER</h1>
-				<p class="how-subtitle">This may be the hardest part.</p><br />
+				<p class="how-subtitle">This may be the hardest part.</p>
 				<img class="how-img" src="assets/vector3.png"/>
 			</div>
 		</div>
