@@ -19,7 +19,7 @@ $('document').ready(function(){
 				if (err){
 					console.log(err);
 				} else {
-					console.log('Thanks for signing up!');
+					window.location('/thank_you.php')
 				}
 			});
 		}
