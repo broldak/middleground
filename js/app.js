@@ -19,7 +19,7 @@ $('document').ready(function(){
 				if (err){
 					console.log(err);
 				} else {
-					window.location('/thank_you.php')
+					window.location.href('/thank_you.php');
 				}
 			});
 		}
